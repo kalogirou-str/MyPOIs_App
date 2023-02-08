@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">MyPOIs</string>
+    <string name="insertButton">insert</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="longLatValues">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="selectCategory">Select Category</string>
+    <string name="search">Search</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="title_1">Title 1</string>
+    <string name="category1">Category</string>
+    <string name="description1">Description:</string>
+    <string name="location1">Location:</string>
+    <string name="timestamp1">Timestamp:</string>
+</resources>
